@@ -1,0 +1,28 @@
+.center {
+  margin: auto;
+  width: 40%;
+  border: 1px solid black;
+  padding: 10px;
+}
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 10px;
+
+  border-radius: 2px;
+}
+.button:hover {
+  background-color: #3e8e41;
+}
+.input[type="text"] {
+  width: 70%;
+  padding: 2px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
